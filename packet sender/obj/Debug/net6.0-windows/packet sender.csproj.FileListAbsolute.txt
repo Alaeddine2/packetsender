@@ -1,0 +1,17 @@
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\bin\Debug\net6.0-windows\packet sender.exe
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\bin\Debug\net6.0-windows\packet sender.deps.json
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\bin\Debug\net6.0-windows\packet sender.runtimeconfig.json
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\bin\Debug\net6.0-windows\packet sender.dll
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\bin\Debug\net6.0-windows\packet sender.pdb
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.csproj.AssemblyReference.cache
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet_sender.Form1.resources
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.csproj.GenerateResource.cache
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.AssemblyInfoInputs.cache
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.AssemblyInfo.cs
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.csproj.CoreCompileInputs.cache
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.dll
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\refint\packet sender.dll
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.pdb
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\packet sender.genruntimeconfig.cache
+C:\Users\ALA-TUNAV-IT\source\repos\packet sender\packet sender\obj\Debug\net6.0-windows\ref\packet sender.dll
